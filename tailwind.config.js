@@ -7,6 +7,7 @@ module.exports = {
       white: '#fff',
       gray: '#cdcdcd',
       orange: '#febd69',
+      black:'#232f3e',
     },
     fontFamily:{
       'amazonMd':['Amazon font', 'system ui']
