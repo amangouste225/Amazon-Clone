@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "Amazon font";
+  src: url("../src/fonts/AmazonEmber-Md.ttf");
+}
+
+
+@layer base {
+
+  .leading-none {
+    line-height: 0.5;
+  }
+}
